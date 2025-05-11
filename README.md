@@ -17,18 +17,6 @@ HTML5
 
 CSS3
 
-# Getting Started
-To run the project locally:
-Clone the repository:
-bash
-git clone https://github.com/yourusername/udemy-clone.git
-
-Navigate to the project folder:
-bash
-cd udemy-clone
-
-Open index.html in your web browser.
-
 # Folder Structure
 php
 udemy-clone/
