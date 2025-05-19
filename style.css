@@ -92,15 +92,16 @@ body{
     color: black;
     border: solid  #A435F0 1px;
 }
-.sale-image {
+.sale-image{
     width: 100%;
-    position: relative;
-
-    
-    padding: 10px;
-    
-    
+     position: relative;
+    padding: 10px;  
 }
+.sale-image img {
+    width: 100%;
+   
+}
+
 
 .sale-image__offer{
     width: 35%;
@@ -108,7 +109,7 @@ body{
     background-color: white;
     padding: 2%;
     position: absolute;
-    top: 10%;
+    top: 30%;
     left: 5%;
     animation-name: zoom;
     animation-duration: 2s;
